@@ -63,8 +63,5 @@ This is a very basic server. You could extend it with features like:
 
 ## Author
 
-[Your Name] ([Your GitHub Username/Link])
-
-## License
-
-[Your License (e.g., MIT License)]
+Krishna Shrivastava
+Github Profile - https://github.com/Krishna-Shrivastava-1
